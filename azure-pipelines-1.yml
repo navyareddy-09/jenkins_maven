@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: navyaReddy09
+pool: Default
   
 
 steps:
